@@ -146,6 +146,7 @@ dollars = 105
         print("Sorry, kid. You're broke!")
     }
     else if(dollars > 0 && dollars < 100) {
+        print("You've got some spedning money!")
     }
     else{
         print("looks to me like you're rich!")
